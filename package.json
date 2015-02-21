@@ -1,12 +1,11 @@
 {
-  "private": true,
   "name": "modder",
   "description": "mod your modules",
   "version": "0.1.0",
   "homepage": "https://github.com/ryanve/modder",
   "license": "MIT",
   "author": "Ryan Van Etten",
-  "keywords": ["extension", "modding", "overloading", "ender"],
+  "keywords": ["modding", "overloading", "hooks", "extension", "ender"],
   "main": "modder.js",
   "repository": {
     "type": "git",
