@@ -1,5 +1,5 @@
 # modder
-<b>modder</b> is get/set interface for sharing functions between modules and hooking custom behavior into modules. It lets you define an interface without implementing all the behavior at once or at all.
+<b>modder</b> is get/set interface for sharing functions and hooking custom behavior into JavaScript modules that provide hooks to do so. It lets you define an interface without implementing all the behavior at once or at all.
 
 ## API
 
