@@ -1,5 +1,5 @@
 /*!
- * modder 0.1.0+201502211040
+ * modder 0.1.1+201502211110
  * https://github.com/ryanve/modder
  * MIT License (c) 2015 Ryan Van Etten
  */
