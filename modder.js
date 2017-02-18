@@ -1,8 +1,3 @@
-/*!
- * modder 0.1.1+201502211110
- * https://github.com/ryanve/modder
- * MIT License (c) 2015 Ryan Van Etten
- */
 !function(root, name, make) {
   if (typeof module != 'undefined' && module.exports) module.exports = make()
   else root[name] = make()
